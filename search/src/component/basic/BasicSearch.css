@@ -1,0 +1,18 @@
+.search{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .list{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  .listItem{
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #444;
+    font-weight: 300;
+  }
